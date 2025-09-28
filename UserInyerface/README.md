@@ -1,7 +1,7 @@
 ﻿# UserInyerface Automated Testing with NUnit, Aquality, SpecFlow & Alure
 
 ## Overview
-This repository contains an automated test suite for [UserInyerface](https://www.userinyerface.com/), a UI challenge designed to frustrate users. The tests are implemented using **NUnit, Selenium, Aquality Selenium, SpecFlow, BDD, InputSimulator, AutoIT, Allure**, and **Page Object Model (POM)** to ensure robust and maintainable test automation.
+This repository contains an automated test suite for [UserInyerface](https://userinyerface.com/), a UI challenge designed to frustrate users. The tests are implemented using **NUnit, Selenium, Aquality Selenium, SpecFlow, BDD, InputSimulator, AutoIT, Allure**, and **Page Object Model (POM)** to ensure robust and maintainable test automation.
 
 ## Features
 - **BDD-Driven Testing:** Uses Gherkin syntax and SpecFlow for structured test cases.
