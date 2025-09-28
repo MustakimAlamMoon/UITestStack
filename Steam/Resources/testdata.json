@@ -1,0 +1,36 @@
+﻿{
+  "basicAuth": {
+    "login": "admin",
+    "password": "admin"
+  },
+  "fileDownload": {
+    "folderPath": "..\\\\Resources\\\\",
+    "fileName": "text.txt"
+  },
+  "fileUpload": {
+    "folderPath": "..\\\\Resources\\\\",
+    "fileName": "FileUpload.exe"
+  },
+  "languages": {
+    "English": "en",
+    "Spanish-Spain": "es",
+    "French": "fr",
+    "German": "de",
+    "Italian": "it",
+    "Russian": "ru",
+    "Japanese": "ja",
+    "Portuguese-Portugal": "pt",
+    "Portuguese-Brazil": "br"
+  },
+  "pageHeadings": {
+    "English": "Privacy Policy Agreement",
+    "Spanish-Spain": "Acuerdo sobre la Política de Privacidad",
+    "French": "Accord sur la protection de la vie privée",
+    "German": "Einverständnis zu den Datenschutzrichtlinien",
+    "Italian": "Contratto di informativa sulla privacy",
+    "Russian": "Соглашение о конфиденциальности",
+    "Japanese": "プライバシーポリシーに関する同意書",
+    "Portuguese-Portugal": "Acordo de Política de Privacidade",
+    "Portuguese-Brazil": "Acordo da Política de Privacidade"
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "basicAuth": {
+    "login": "admin",
+    "password": "admin"
+  },
+  "fileDownload": {
+    "folderPath": "..\\\\Resources\\\\",
+    "fileName": "text.txt"
+  },
+  "fileUpload": {
+    "folderPath": "..\\\\Resources\\\\",
+    "fileName": "FileUpload.exe"
+  },
+  "card1Data": {
+    "domain": "example",
+    "topLevelDomain": ".com"
+  }
+}
